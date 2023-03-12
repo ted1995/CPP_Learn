@@ -1,0 +1,10 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.174.135'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\14320\source\repos\Project5\Project5\main.cpp(1,18): error : mysql.h: 没有那个文件或目录
+C:\Users\14320\source\repos\Project5\Project5\main.cpp(1,18): error :  #include<mysql.h>
+C:\Users\14320\source\repos\Project5\Project5\main.cpp(1,18): error :                   ^
+C:\Users\14320\source\repos\Project5\Project5\main.cpp(1,18): error : compilation terminated.
