@@ -1,0 +1,4 @@
+﻿  connpool.cpp
+c:\users\14320\source\repos\数据库连接池\数据库连接池\connpool.cpp(63): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\14320\source\repos\数据库连接池\数据库连接池\connpool.cpp(69): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  数据库连接池.vcxproj -> C:\Users\14320\source\repos\数据库连接池\x64\Debug\数据库连接池.exe

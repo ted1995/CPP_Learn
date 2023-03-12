@@ -1,0 +1,4 @@
+﻿  完成端口.cpp
+c:\users\14320\source\repos\完成端口\完成端口\完成端口.cpp(236): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  完成端口.vcxproj -> C:\Users\14320\source\repos\完成端口\Debug\完成端口.exe

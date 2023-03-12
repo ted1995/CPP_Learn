@@ -1,0 +1,3 @@
+﻿  rbtre.cpp
+c:\users\14320\source\repos\红黑树\红黑树\rbtre.cpp(71): error C2535: “void rbtree::leftrotate(node *)”: 已经定义或声明成员函数
+  c:\users\14320\source\repos\红黑树\红黑树\rbtre.cpp(21): note: 参见“rbtree::leftrotate”的声明

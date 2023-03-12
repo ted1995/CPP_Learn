@@ -1,0 +1,5 @@
+﻿  selectEvent.cpp
+c:\users\14320\source\repos\selectevent\selectevent\selectevent.cpp(279): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\14320\source\repos\selectevent\selectevent\selectevent.cpp(70): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  selectEvent.vcxproj -> C:\Users\14320\source\repos\selectEvent\Debug\selectEvent.exe

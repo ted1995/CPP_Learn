@@ -1,0 +1,11 @@
+﻿  connect.cpp
+  connpool.cpp
+  main.cpp
+  正在生成代码...
+connect.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 "public: __thiscall myconnect::myconnect(void)" (??0myconnect@@QAE@XZ) 中被引用
+connect.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 "public: bool __thiscall myconnect::connect_sql(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,short,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?connect_sql@myconnect@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@F000@Z) 中被引用
+connect.obj : error LNK2019: 无法解析的外部符号 _mysql_query@8，该符号在函数 "public: struct st_mysql_res * __thiscall myconnect::myquery(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?myquery@myconnect@@QAEPAUst_mysql_res@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+connect.obj : error LNK2019: 无法解析的外部符号 _mysql_use_result@4，该符号在函数 "public: struct st_mysql_res * __thiscall myconnect::myquery(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?myquery@myconnect@@QAEPAUst_mysql_res@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+connect.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 "public: __thiscall myconnect::~myconnect(void)" (??1myconnect@@QAE@XZ) 中被引用
+C:\Program Files\MySQL\MySQL Server 5.7\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\14320\source\repos\数据库连接池\Debug\数据库连接池.exe : fatal error LNK1120: 5 个无法解析的外部命令
